@@ -40,7 +40,7 @@
 ![inputschallenge](https://user-images.githubusercontent.com/44185999/107303849-ded69c00-6aba-11eb-8bd2-5c26736b14f2.png)
 
 - You can check the demo [here](https://inputschallenge.netlify.app).
-- This challenge is amazing along with the buttons challenge. In this challenge I practice my CSS skills of using selectors and I became for familiar of using the storybook library.
+- This challenge is amazing along with the buttons challenge. In this challenge I practice my CSS skills of using selectors and I became more familiar of using the storybook library.
 
 ### Built With
 
